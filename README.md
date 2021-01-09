@@ -41,6 +41,9 @@
 
 ---
 
+Check list of some of my projects here - [Github page](https://r-pant.github.io/) 
+
+
 <img align="left" alt="rohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r-pant&show_icons=true&hide_border=true" />
 
 
