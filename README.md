@@ -30,7 +30,7 @@
 <br />
 
 ---
-
+[Click to check my resume](https://github.com/r-pant/r-pant/blob/main/rp_cv.pdf)
 
 
 ### 📕 Latest Blog Posts
