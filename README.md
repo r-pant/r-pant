@@ -2,10 +2,10 @@
 
 ## I'm a Data Scientist, developer, and a learner!
 - 🔭 I’m working to add more stars to my skills!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to content creation
-- ⚡ Fun fact: I love to sketch and play guitar.
+- ⚡ Fun fact: I love to write and play guitar.
+- 🌱 I’m currently learning everything 🤣
 
 ### Connect with me:
 
