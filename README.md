@@ -37,7 +37,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Precision and Recall](https://www.analyticsvidhya.com/blog/2020/12/accuracy-and-its-shortcomings-precision-recall-to-the-rescue/)
 - [Optimizing EDA using Functions in Python](https://www.analyticsvidhya.com/blog/2020/10/optimizing-exploratory-data-analysis-using-functions-in-python/)
-- [Optimizing EDA using Functions in Python](https://www.analyticsvidhya.com/blog/2021/01/using-social-media-platforms-for-building-data-science-profile/)
+- [How to develop your profile using social media](https://www.analyticsvidhya.com/blog/2021/01/using-social-media-platforms-for-building-data-science-profile/)
 
 <!-- BLOG-POST-LIST:END -->
 
