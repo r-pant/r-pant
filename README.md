@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to content creation
 - ⚡ Fun fact: I love to write and play guitar.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I have a curious mind, always in awe of emerging technological wonders. 
 
 ### Connect with me:
 
