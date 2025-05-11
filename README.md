@@ -29,8 +29,7 @@
 <br />
 
 ---
-[Click to check my resume]([https://github.com/r-pant/r-pant/blob/main/rp_cv.pdf](https://github.com/r-pant/r-pant/blob/main/Rohit_Pant_Data_Science_9year.pdf))
-
+[Click to check my resume]([https://github.com/r-pant/r-pant/blob/main/Rohit_Pant_Data_Science_9year.pdf])
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
